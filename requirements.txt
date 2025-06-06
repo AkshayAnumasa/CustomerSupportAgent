@@ -1,0 +1,8 @@
+streamlit
+nltk
+groq
+pymongo
+python-dotenv
+pandas
+scikit-learn
+pyautogen>=0.2.0
